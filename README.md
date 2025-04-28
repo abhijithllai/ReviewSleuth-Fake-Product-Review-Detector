@@ -20,7 +20,6 @@ This project leverages **Machine Learning** techniques to build an intelligent r
 | Backend     | Python + Flask                           |
 | ML/NLP      | Scikit-learn, TF-IDF, Logistic Regression|
 | Serialization | joblib                                 |
-| Database    | SQLite (Optional)                        |
 | Frontend    | HTML, CSS                                |
 | Deployment  | Localhost / Web Hosting Ready            |
 
